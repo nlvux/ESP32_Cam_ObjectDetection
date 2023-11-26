@@ -1,10 +1,5 @@
 
-//#include <esp32-cam-cat-dog_inferencing.h>  
-//#include <Car_Detection_inferencing.h>
-//#include <Test297_inferencing.h>
-//#include <Space_inferencing.h>
-//#include <New_inferencing.h>
-#include <Video_inferencing.h>
+#include <Space_inferencing.h>
 #define CAMERA_MODEL_AI_THINKER
 
 #include "img_converters.h"
